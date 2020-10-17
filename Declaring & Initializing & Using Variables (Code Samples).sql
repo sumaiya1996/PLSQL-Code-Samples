@@ -1,4 +1,4 @@
---------------------DECLARING VARIABLES--------------------------
+---------------------DECLARING VARIABLES--------------------------
 set serveroutput on;
 declare 
 v varchar2(20) := 2 + 25*3;
