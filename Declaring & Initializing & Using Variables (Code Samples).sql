@@ -1,4 +1,4 @@
-<pre class="prettyprint linenums">--------------------DECLARING VARIABLES--------------------------
+--------------------DECLARING VARIABLES--------------------------
 set serveroutput on;
 declare 
 v varchar2(20) := 2 + 25*3;
@@ -38,4 +38,4 @@ v_bool varchar2 := true;
 begin
   dbms_output.put_line(v_bool);
 end;
-----------------------------------------------------------------</pre>
+----------------------------------------------------------------
